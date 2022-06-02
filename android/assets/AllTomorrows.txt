@@ -1,0 +1,3 @@
+do:0 you:0 want:0 to:0 / / start:1 the:0 game:9 or:0 / / not:0 you:0 just:0 have:0 / / to:0 figure:0 it:0 out:0
+balik:0 ucma:0 basladi:0 a:0 / / geri:0 kimse:0 kalma:1 a:0 / / geri:0 kimse:9 kalma:0 a:0 / / geri:0 kimse:0 kalma:0 a:0
+onlar:0 geri:0 donene:0 a:0 / / _ _ _ kadar:0 kimse:1 kalmadi:0
